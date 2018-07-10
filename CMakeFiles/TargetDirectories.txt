@@ -1,0 +1,3 @@
+/home/mannanhunzai/cse4310/compVisHWs/OpenCVCoinCounter/CMakeFiles/rebuild_cache.dir
+/home/mannanhunzai/cse4310/compVisHWs/OpenCVCoinCounter/CMakeFiles/edit_cache.dir
+/home/mannanhunzai/cse4310/compVisHWs/OpenCVCoinCounter/CMakeFiles/coincount.dir
