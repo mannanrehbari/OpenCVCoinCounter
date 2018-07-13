@@ -9,10 +9,18 @@
 /home/mannanhunzai/cse4310/compVisHWs/OpenCVCoinCounter/coincount.cpp
 iostream
 -
-cstdio
+string
+-
+vector
 -
 opencv2/opencv.hpp
 /home/mannanhunzai/cse4310/compVisHWs/OpenCVCoinCounter/opencv2/opencv.hpp
+opencv2/core.hpp
+-
+opencv2/highgui.hpp
+-
+opencv2/imgproc.hpp
+-
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h
